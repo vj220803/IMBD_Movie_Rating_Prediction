@@ -1,2 +1,1 @@
-# CODSOFT_2 
-Movie Rating Prediction with Python
+# IMDB Movie Rating Prediction 
